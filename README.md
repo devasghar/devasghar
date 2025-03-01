@@ -12,20 +12,19 @@
   Hi, I'm Asghar Abbas, a Lead Web Developer from Pakistan
   <br>
   <br>
-  👨‍🎓 I'm currently studying for a Bachelor's degree in Mansoura University Computer Science and Control System Engineering Department (CCSED)
-  <br>
-  💻 I love Writing code, Deep Learning, Problem Solving and learning anything about them 😊
-  <br>
-  📚 I’m currently focusing on Data Science 
-  <br>
-  📫 How to reach me 👇
+With over a decade of experience in web development and programming, I’ve had the opportunity to work with clients worldwide on projects of all sizes—from small-scale solutions to enterprise-level applications. I’ve led projects and collaborated with cross-functional teams of up to 200 professionals across different regions, ensuring seamless execution and high-quality deliverables.
+
+My expertise lies in Drupal, covering both front-end and back-end development across versions 7, 8, and 9. As an Acquia-certified Drupal developer, I focus on building scalable, secure, and efficient web solutions tailored to client needs.
+
+Beyond Drupal, I’m also well-versed in WordPress, from crafting custom themes and Gutenberg blocks to developing complex widgets that enhance functionality.
+
+As an advocate for open-source, I’ve contributed to the Drupal community through modules like Node Delete Redirect, Folder Redirect, and User Info Widget, which are actively used by developers. Additionally, I’ve shared insights and solutions with thousands of developers on Grepper, helping solve real-world coding challenges.
+
+I’m always eager to collaborate, learn, and build solutions that make an impact.
 </p>
-<p align="center"> <a href="https://www.linkedin.com/in/halemogpa/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=23></a> <a href="mailto:haleemborham3@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=23></a>
+<p align="center"> <a href="https://www.linkedin.com/in/devasghar/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=23></a> <a href="mailto:dev.asghar@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=23></a>
   <!--  <a href="http://wa.me//201010147580"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height=23></a> --> 
-   <a href="https://github.com/HalemoGPA/"><img src="https://img.shields.io/badge/Twitter-222222?style=for-the-badge&logo=twitter&logoColor=white" height=23></a>
-<!--   <a href="https://github.com/HalemoGPA/"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height=23></a> -->
- <!--  <a href="https://www.youtube.com/watch?v=p0uAJ6Eu4Rs"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" height=23></a> -->
-  <a href="https://github.com/HalemoGPA/"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" height=23></a>  <a href="https://codeforces.com/profile/HGPA"><img src="https://img.shields.io/badge/codeforces-%234566B5.svg?&style=for-the-badge&logo=codeforces&logoColor=white" height=23></a></p>
+   <a href="https://github.com/devasghar/"></p>
 <hr>
 
 
