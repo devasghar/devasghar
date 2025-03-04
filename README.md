@@ -21,6 +21,13 @@
 <p align="left">
   I'm always eager to collaborate, learn, and build solutions that make an impact.
 </p>
+
+<p align="center">
+  <img src="https://dev.acquia.com/sites/default/files/images/Acquia%252520Certification%252520Badge_Developer_Drupal%2525208_0_3.svg" height="100" alt="Acquia Certified Developer - Drupal 8" />
+  <img src="https://dev.acquia.com/sites/default/files/2024-05/Acquia%20Certification%20Badge_Drupal%20Site%20Builder_Drupal%208%20%281%29.svg" height="100" alt="Acquia Certified Site Builder - Drupal 8" />
+  <img src="https://dev.acquia.com/sites/default/files/images/Acquia%2520Certification%2520Badge_Developer_Drupal%25207.svg" height="100" alt="Acquia Certified Developer - Drupal 7" />
+</p>
+
 <p align="center"> <a href="https://www.linkedin.com/in/devasghar/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="mailto:dev.asghar@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=25></a>
   <!--  <a href="http://wa.me//201010147580"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height=23></a> --> 
    <a href="https://github.com/devasghar/"></p>
