@@ -1,24 +1,24 @@
 ### 🚀 About Me:
-<p align="center">
+<p align="left">
   Hi, I'm Asghar Abbas, a Lead Web Developer from Pakistan
   <br>
   <br>
   With over a decade of experience in web development and programming, I've had the opportunity to work with clients worldwide on projects of all sizes—from small-scale solutions to enterprise-level applications. I've collaborated with cross-functional teams across different regions, ensuring seamless execution and high-quality deliverables.
 </p>
 
-<p align="center">
+<p align="left">
   My expertise lies in Drupal, covering both front-end and back-end development across versions 7, 8, and 9. As an Acquia-certified Drupal developer, I focus on building scalable, secure, and efficient web solutions tailored to client needs.
 </p>
 
-<p align="center">
+<p align="left">
   Beyond Drupal, I'm also well-versed in WordPress, from crafting custom themes and Gutenberg blocks to developing complex widgets that enhance functionality.
 </p>
 
-<p align="center">
+<p align="left">
   As an advocate for open-source, I've contributed to the Drupal community through modules like Node Delete Redirect, Folder Redirect, and User Info Widget, which are actively used by developers. Additionally, I've shared insights and solutions with thousands of developers on Grepper, helping solve real-world coding challenges.
 </p>
 
-<p align="center">
+<p align="left">
   I'm always eager to collaborate, learn, and build solutions that make an impact.
 </p>
 <p align="center"> <a href="https://www.linkedin.com/in/devasghar/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="mailto:dev.asghar@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=25></a>
