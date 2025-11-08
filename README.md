@@ -23,7 +23,7 @@
 </p>
 
 <p align="center">
-<img src="./assets/d8developer.svg" class="size-52" alt="Acquia Certified Developer - Drupal 8"> <img src="./assets/d8sitebuilder.svg" class="size-52" alt="Acquia Certified Site Builder - Drupal 8"> <img src="./assets/d7developer.svg" class="size-52" alt="Acquia Certified Developer - Drupal 7">
+<img src="./assets/d8developer.svg" class="size-52" alt="Acquia Certified Developer - Drupal 8" height="52"> <img src="./assets/d8sitebuilder.svg" class="size-52" alt="Acquia Certified Site Builder - Drupal 8" height="52"> <img src="./assets/d7developer.svg" class="size-52" alt="Acquia Certified Developer - Drupal 7" height="52">
 </p>
 
 <p align="center"> <a href="https://www.linkedin.com/in/devasghar/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="mailto:dev.asghar@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=25></a>
