@@ -1,25 +1,22 @@
 ### 🚀 About Me:
 <p align="left">
-  Hi, I'm Asghar Abbas, a Lead Web Developer from Pakistan
-  <br>
-  <br>
-  With over a decade of experience in web development and programming, I've had the opportunity to work with clients worldwide on projects of all sizes—from small-scale solutions to enterprise-level applications. I've collaborated with cross-functional teams across different regions, ensuring seamless execution and high-quality deliverables.
+  I’m Asghar Abbas — a Software Engineer with nearly a decade of experience building and managing web applications end-to-end. I’ve collaborated with global clients on projects of all sizes, leading development efforts and ensuring efficient, high-quality delivery.
 </p>
 
 <p align="left">
-  My expertise lies in Drupal, covering both front-end and back-end development across versions 7, 8, and 9. As an Acquia-certified Drupal developer, I focus on building scalable, secure, and efficient web solutions tailored to client needs.
+  My expertise spans Drupal (7, 8, 9) and WordPress, covering both front-end and back-end development. As an Acquia Certified Drupal Developer, I’ve built secure, scalable systems using Paragraphs, Panels, and custom modules — including Node Delete Redirect, Folder Redirect, and User Info Widget, which are actively used by the Drupal community.
 </p>
 
 <p align="left">
-  Beyond Drupal, I'm also well-versed in WordPress, from crafting custom themes and Gutenberg blocks to developing complex widgets that enhance functionality.
+  Beyond Drupal, I’ve developed custom WordPress themes using Gutenberg blocks and Timber, complete with asset pipelines for SASS/JS compilation, minification, and versioning. On the infrastructure side, I manage DigitalOcean environments (Ubuntu, PHP, Certbot, load balancers), automate CI/CD pipelines with GitHub Actions, and handle DNS and Cloudflare configurations.
 </p>
 
 <p align="left">
-  As an advocate for open-source, I've contributed to the Drupal community through modules like Node Delete Redirect, Folder Redirect, and User Info Widget, which are actively used by developers. Additionally, I've shared insights and solutions with thousands of developers on Grepper, helping solve real-world coding challenges.
+  I’ve also worked on a few MERN and Next.js projects, including FoodFlick — a white-label online ordering and POS platform I built from concept to production (foodflick.app, app.foodflick.app).
 </p>
 
 <p align="left">
-  I'm always eager to collaborate, learn, and build solutions that make an impact.
+  Currently, I lead and mentor developers, organizing work through GitHub Projects for clear planning and delivery. I’m passionate about bridging development, infrastructure, and product thinking to create systems that are not just functional — but dependable and thoughtfully designed.
 </p>
 
 <p align="center">
