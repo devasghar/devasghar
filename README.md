@@ -12,7 +12,7 @@
 </p>
 
 <p align="left">
-  I’ve also worked on a few MERN and Next.js projects, including FoodFlick — a white-label online ordering and POS platform I built from concept to production (foodflick.app, app.foodflick.app).
+  I’ve also worked on a few MERN and Next.js projects, including FoodFlick — a white-label online ordering and POS platform I lead from concept to production (foodflick.app, app.foodflick.app).
 </p>
 
 <p align="left">
