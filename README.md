@@ -69,7 +69,8 @@
 
 <p align="center">
 <a href="https://github.com/devasghar/">
-      <img width=325  src="https://github-stats-4oer42xvn-asghar-abbas-projects.vercel.app/?username=devasghar" />
+      <img src="https://github-stats-4oer42xvn-asghar-abbas-projects.vercel.app/api/card?username=devasghar" alt="GitHub Stats" width="325" />
+      <img src="https://github-stats-4oer42xvn-asghar-abbas-projects.vercel.app/api/top-langs?username=devasghar&langs_count=8&title_color=61dafb&text_color=ffffff&bg_color=20232a" alt="Top Languages" />
  </a>
 </p>
 
