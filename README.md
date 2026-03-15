@@ -1,6 +1,7 @@
 ### 🚀 About Me:
 <p align="left">
   I’m Asghar Abbas — a Software Engineer with nearly a decade of experience building and managing web applications end-to-end. I’ve collaborated with global clients on projects of all sizes, leading development efforts and ensuring efficient, high-quality delivery.
+
 </p>
 
 <p align="left">
@@ -12,12 +13,15 @@
 </p>
 
 <p align="left">
-  I’ve also worked on a few MERN and Next.js projects, including FoodFlick — a white-label online ordering and POS platform I lead from concept to production (foodflick.app, app.foodflick.app).
+  I’ve also contributed open-source tooling to the JavaScript ecosystem through npm packages such as vrengine, deploypress, anonymiser, and db-hygiene, designed to support development workflows, deployments, and data management.
 </p>
 
 <p align="left">
-  Currently, I lead and mentor developers, organizing work through GitHub Projects for clear planning and delivery. I’m passionate about bridging development, infrastructure, and product thinking to create systems that are not just functional — but dependable and thoughtfully designed.
+  I’ve also worked on MERN and Next.js projects, including FoodFlick — a white-label online ordering and POS platform I lead from concept to production (foodflick.app).
 </p>
+
+<p align="left">
+  Currently, I lead and mentor developers, organizing work through GitHub Projects for clear planning and delivery. I’m passionate about bridging development, infrastructure, and product thinking to create systems that are not just functional — but dependable and thoughtfully designed.</p>
 
 <p align="center">
 <img src="./assets/d8developer.svg" class="size-52" alt="Acquia Certified Developer - Drupal 8" height="152"> <img src="./assets/d8sitebuilder.svg" class="size-52" alt="Acquia Certified Site Builder - Drupal 8" height="152"> <img src="./assets/d7developer.svg" class="size-52" alt="Acquia Certified Developer - Drupal 7" height="152">
